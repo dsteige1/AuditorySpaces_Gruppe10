@@ -3,17 +3,15 @@
 ---
 
 ### Idee
-* Dieses Projekt entstand im Rahmen des Aufbauseminars [_Auditory Spaces: Sound als Gestaltungsmittel in VR und AR_](https://lehre.idh.uni-koeln.de/lehrveranstaltungen/sosem20/auditory-spaces-sound-als-gestaltungsmittel-in-vr-und-ar/) am Institut für Digital Humanities der Universität zu Köln.
-* Wir haben es uns als Ziel gesetzt, das Hörspiel [_Raumschiff Tonstudio – Bericht über das Innere einer Kapsel und deren Bewohner_](https://www.deutschlandfunkkultur.de/hoerspiel-ueber-den-brillanten-sound-raumschiff-tonstudio.3684.de.html?dram:article_id=456412) in einen virtuellen Raum zu übersetzen
-* Der virtuelle Raum soll das Auditive unterstützen um das Hörspiel zu verbildlichen, jedoch steht das Hörspiel im Fokus.
-* Einzelne Szenen sollen aus dem Hörspiel herausgenommen und visualisiert werden um ein Narrativ zu bilden, womit eine ganze Geschichte entsteht.
-* Wir wollen einen Mix aus vorgegebenen Handlungen und freier Interaktion, um den Nutzenden einen kleinen Leitfaden zu geben aber auch Möglichkeit zum Experimentieren zu lassen.
-* Das Raumschiff soll den Ankerpunkt der Anwendung darstellen, wie es auch im Hörspiel beschrieben wird.
+Dieses Projekt entstand im Rahmen des Aufbauseminars [_Auditory Spaces: Sound als Gestaltungsmittel in VR und AR_](https://lehre.idh.uni-koeln.de/lehrveranstaltungen/sosem20/auditory-spaces-sound-als-gestaltungsmittel-in-vr-und-ar/) am Institut für Digital Humanities der Universität zu Köln. 
+Wir haben es uns als Ziel gesetzt, das Hörspiel [_Raumschiff Tonstudio – Bericht über das Innere einer Kapsel und deren Bewohner_](https://www.deutschlandfunkkultur.de/hoerspiel-ueber-den-brillanten-sound-raumschiff-tonstudio.3684.de.html?dram:article_id=456412) in einen virtuellen Raum zu übersetzen, der mit Ausschnitten aus dem Hörspiel auditiv unterstützt wird.
+Dazu haben wir ausgewählte Szenen aus diesem entnommen und in eine virtuelle Welt eingegliedert, wodurch  ein Narrativ entstanden ist, bei dem das Hörspiel weiterhin den Fokus des Projekts bildet.
+Es geht darum eine Verbindung aus vorgegebenen Handlungen und freier Interaktion herzustellen, bei dem den Nutzenden helfende Elemente angezeigt werden, ihnen aber auch die Möglichkeit gegeben wird, sich frei zu bewegen und zu experimentieren. Das Raumschiff als wiederkehrendes Element stellt dabei den Ankerpunkt der Anwendung dar, wie es auch im Hörspiel beschrieben wird.
 
 
 ### Allgemeine Informationen
 * Gruppe N°10
-* Mitglieder: Kappes, Wagner, Ackermann, Schunn & Steiger
+* Mitglieder: Ackermann, Kappes,  Schunn, Steiger & Wagner
 * Die ausführbare APK befindet sich im [/dist](https://github.com/dsteige1/AuditorySpaces_Gruppe10/tree/master/dist)-Ordner
 
 ---
