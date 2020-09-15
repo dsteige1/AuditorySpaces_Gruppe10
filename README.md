@@ -3,9 +3,9 @@
 ---
 
 ### Idee
-Dieses Projekt entstand im Rahmen des Aufbauseminars [_Auditory Spaces: Sound als Gestaltungsmittel in VR und AR_](https://lehre.idh.uni-koeln.de/lehrveranstaltungen/sosem20/auditory-spaces-sound-als-gestaltungsmittel-in-vr-und-ar/) am Institut für Digital Humanities der Universität zu Köln. 
-Wir haben es uns als Ziel gesetzt, das Hörspiel [_Raumschiff Tonstudio – Bericht über das Innere einer Kapsel und deren Bewohner_](https://www.deutschlandfunkkultur.de/hoerspiel-ueber-den-brillanten-sound-raumschiff-tonstudio.3684.de.html?dram:article_id=456412) in einen virtuellen Raum zu übersetzen, der mit Ausschnitten aus dem Hörspiel auditiv unterstützt wird.
-Dazu haben wir ausgewählte Szenen aus diesem entnommen und in eine virtuelle Welt eingegliedert, wodurch  ein Narrativ entstanden ist, bei dem das Hörspiel weiterhin den Fokus des Projekts bildet.
+Dieses Projekt entstand im Rahmen des Aufbauseminars [_Auditory Spaces: Sound als Gestaltungsmittel in VR und AR_](https://lehre.idh.uni-koeln.de/lehrveranstaltungen/sosem20/auditory-spaces-sound-als-gestaltungsmittel-in-vr-und-ar/) am Institut für Digital Humanities der Universität zu Köln. <br>
+Wir haben es uns als Ziel gesetzt, das Hörspiel [_Raumschiff Tonstudio – Bericht über das Innere einer Kapsel und deren Bewohner_](https://www.deutschlandfunkkultur.de/hoerspiel-ueber-den-brillanten-sound-raumschiff-tonstudio.3684.de.html?dram:article_id=456412) in einen virtuellen Raum zu übersetzen, der mit Ausschnitten aus dem Hörspiel auditiv unterstützt wird. <br>
+Dazu haben wir ausgewählte Szenen aus diesem entnommen und in eine virtuelle Welt eingegliedert, wodurch  ein Narrativ entstanden ist, bei dem das Hörspiel weiterhin den Fokus des Projekts bildet. <br>
 Es geht darum eine Verbindung aus vorgegebenen Handlungen und freier Interaktion herzustellen, bei dem den Nutzenden helfende Elemente angezeigt werden, ihnen aber auch die Möglichkeit gegeben wird, sich frei zu bewegen und zu experimentieren. Das Raumschiff als wiederkehrendes Element stellt dabei den Ankerpunkt der Anwendung dar, wie es auch im Hörspiel beschrieben wird.
 
 
